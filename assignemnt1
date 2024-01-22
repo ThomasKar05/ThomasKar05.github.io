@@ -1,0 +1,79 @@
+	<!--
+	Name: Thomas Karkoutlian
+	File: filename.html
+	Date: XX September 202X
+	A very brief description of the file.
+	-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Your Name">
+    <style>
+        /* Add the provided CSS here */
+    </style>
+    <title>Letter to Prospective PhD Student</title>
+</head>
+
+<body>
+
+    <h1>Re: Application Response</h1>
+
+    <p>Dear Adam Wilde,</p>
+
+    <p>Thank you for your interest in pursuing a PhD at our esteemed university Awesome. We have carefully reviewed your application, and I am pleased to inform you that you have been accepted into our program.</p>
+
+    <h2>Details of Acceptance</h2>
+
+    <p>Your journey with us will commence on the following dates:</p>
+
+    <ul>
+        <li><strong>Semester Start:</strong> [September 2024]</li>
+    </ul>
+
+    <h3>Study Subjects</h3>
+
+    <ul>
+        <li><strong>Subject 1:</strong> How to be awesome</li>
+        <li><strong>Subject 2:</strong> How to stay awesome</li>
+    </ul>
+
+    <h3>Exotic Dances</h3>
+
+    <ul>
+        <li><strong>Dance 1:</strong> Flappy chicken </li>
+        <li><strong>Dance 2:</strong> The Nerd dance</li>
+    </ul>
+
+    <address class="sender-column">
+        Jake Holl<br>
+        1234 Awesome lane <br>
+    </address>
+
+    <p class="sender-column">July 2006</p>
+
+    <!-- More content of the letter -->
+
+    <footer>
+        <p>Best Regards,</p>
+        <p>Thomas Kar</p> <!-- Removed extra </p> tag -->
+    </footer>
+
+    <!-- Hyperlink 1 -->
+    <p>For more information, visit <a href="http://example.com" title="University Website">our website</a>.</p>
+
+    <!-- Hyperlink 2 -->
+    <p>Click <a href="http://example.com" title="Location Details">here</a> for location details.</p>
+
+    <!-- University Motto -->
+    <blockquote>
+        <p>Nothing is better than Awesome </p>
+        <cite>Steve Dangle</cite>
+    </blockquote>
+
+</body>
+
+</html>
